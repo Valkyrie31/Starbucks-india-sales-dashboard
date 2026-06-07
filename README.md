@@ -27,4 +27,9 @@ An interactive **Microsoft Excel dashboard** designed to analyze sales performan
 - Slicers
 - Conditional Formatting
 
+  ##  Dashboard Preview
+
+![Dashboard Preview](Screenshot%202026-06-06%20170144.png)
+
+
 
